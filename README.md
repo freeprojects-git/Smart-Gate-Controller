@@ -1,4 +1,26 @@
-# Smart-Gate-Controller
+
+
+# Smart Gate Controller — QA Portfolio Project
+
+## About the Project
+
+## System Under Test
+
+## Testing Approach
+
+## Test Cases
+
+## Test Results
+
+## Defects Found
+
+## Evidence
+
+## Wokwi Simulation
+
+## Skills Demonstrated
+
+
 Project: Smart Gate Controller — Embedded QA Testing
 
 Testing type:
@@ -32,23 +54,3 @@ OPENING/CLOSING
 Any state
    ↓ invalid condition
     ERROR
-
-# Smart Gate Controller — QA Portfolio Project
-
-## About the Project
-
-## System Under Test
-
-## Testing Approach
-
-## Test Cases
-
-## Test Results
-
-## Defects Found
-
-## Evidence
-
-## Wokwi Simulation
-
-## Skills Demonstrated
